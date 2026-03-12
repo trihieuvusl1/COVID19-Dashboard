@@ -12,16 +12,10 @@ Welcome to my professional portfolio. I am a Quantitative Methods in Economics a
 
 ### Project Overview
 Developed a comprehensive dashboard to track and analyze the global impact of COVID-19. The project focuses on visualizing infection trends, mortality rates, and recovery statistics to provide a clear view of the pandemic's progression.
-
-### Key Features and Analysis
 * Real-time Data Visualization: Created dynamic charts to monitor daily changes in cases and deaths across different regions.
 * Comparative Analysis: Built features to compare recovery rates and healthcare responses between countries.
 * Data Integration: Processed and cleaned raw datasets to ensure accuracy in trend forecasting and geographical mapping.
 
-### Tools and Technologies
-* Visualization: Tableau
-* Data Processing: Excel (Pivot Tables, Lookup functions), SQL
-* Version Control: GitHub
 
 ---
 

@@ -28,7 +28,7 @@ Developed a comprehensive dashboard to track and analyze the global impact of CO
 ## Technical Skills
 * Data Analysis: Applied Econometrics, Probability Theory, Statistics
 * Programming & Databases: Python, Java, SQL
-* Tools: R, Tableau, Excel (Advanced)
+* Tools: R, Tableau, Excel
 * Languages: English (Advanced), Polish (Intermediate), Vietnamese (Native)
 
 ---

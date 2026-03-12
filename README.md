@@ -1,6 +1,6 @@
 # Portfolio
 
-# Data Analytics and Visualization Portfolio
+# Data Analytics and Visualization 
 
 Welcome to my professional portfolio. I am a Quantitative Methods in Economics and Information Systems student at SGH Warsaw School of Economics. This repository showcases my work in data-driven analysis, financial modeling, and interactive visualization.
 
@@ -22,18 +22,6 @@ Developed a comprehensive dashboard to track and analyze the global impact of CO
 * Visualization: Tableau
 * Data Processing: Excel (Pivot Tables, Lookup functions), SQL
 * Version Control: GitHub
-
----
-
-## Professional Experience
-
-### Olympic Paris 2024 | International Operations
-* Managed accreditation and access control for 384 athletes across 76 matches.
-* Assisted in crowd management for 340,000+ spectators, ensuring strict adherence to security protocols.
-
-### Student Securities Club | Data-Driven Communication
-* Led a 4-month campaign driving 1.4K registrations and 90K+ impressions.
-* Analyzed peak engagement hours and interaction metrics to optimize content strategy.
 
 ---
 

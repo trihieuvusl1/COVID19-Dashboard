@@ -1,8 +1,4 @@
-# Portfolio
 
-Welcome to my portfolio. I am a Quantitative Methods in Economics and Information Systems student at SGH Warsaw School of Economics. This repository showcases my work in data-driven analysis, financial modeling, and interactive visualization.
-
----
 
 ## Featured Project: COVID-19 Interactive Dashboard
 
@@ -14,9 +10,3 @@ Developed a comprehensive dashboard to track and analyze the global impact of CO
 * Comparative Analysis: Built features to compare recovery rates and healthcare responses between countries.
 * Data Integration: Processed datasets to ensure accuracy in trend forecasting and geographical mapping.
 
----
-
-## Connect with Me
-* LinkedIn: [linkedin.com/in/tri-hieu-vu-b8b2261b6](https://linkedin.com/in/tri-hieu-vu-b8b2261b6)
-* Email: trihieuvusl@gmail.com
-* GitHub: [github.com/trihieuvusl-lang](https://github.com/trihieuvusl-lang)

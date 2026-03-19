@@ -2,7 +2,7 @@
 
 ## Featured Project: COVID-19 Interactive Dashboard
 
-### Link: [View Interactive Dashboard](https://trihieuvusl-lang.github.io/Portfolio/)
+### Link: [View Interactive Dashboard](https://trihieuvusl1.github.io/COVID19_Interactive_Dashboard/)
 
 ### Project Overview
 Developed a comprehensive dashboard to track and analyze the global impact of COVID-19. The project focuses on visualizing infection trends, mortality rates, and recovery statistics to provide a clear view of the pandemic's progression.

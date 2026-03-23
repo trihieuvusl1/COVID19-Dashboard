@@ -1,7 +1,7 @@
 # COVID-19 Global Dashboard
 ### A Data Visualization Case Study on Pandemic Trends and Population Impact
 **Tools:** Microsoft SQL Server, Microsoft Excel, Tableau Desktop / Tableau Public
-**Data:** Our World in Data — 85,171 records across 219 locations, January 2020 to April 2021
+**Data:** Our World in Data with 85,171 records across 219 locations, January 2020 to April 2021
 **Live Demo:** https://trihieuvusl1.github.io/COVID19-Dashboard/
 
 ---
